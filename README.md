@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shams Farabi Al Muhit</h1>
 <h3 align="center">Currently an undergraduate, pursuing my bachelor's in Computer Science and Engineering. Passionate about problem solving and creative thinking. Love to learn new things and teach others.</h3>
 
