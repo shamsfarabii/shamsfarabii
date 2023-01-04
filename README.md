@@ -1,4 +1,4 @@
-![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3)
+![MasterHead](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
 <h1 align="center">Hi 👋, I'm Shams Farabi Al Muhit</h1>
 <h3 align="center">Currently an undergraduate, pursuing my bachelor's in Computer Science and Engineering. Passionate about problem solving and creative thinking. Love to learn new things and teach others.</h3>
 
