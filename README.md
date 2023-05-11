@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shamsfarabialmuhit71@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/cv-of-shams-farabi](https://cutt.ly/cv-of-shams-farabi)
+- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://cutt.ly/r6l7D8M)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
