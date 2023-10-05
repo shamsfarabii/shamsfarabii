@@ -6,10 +6,10 @@
 <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=this-is-shams)](https://git.io/streak-stats)" alt="this-is-shams" />
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=this-is-shams" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-shams&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
 </div>
 
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadul&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
 
 - 🌱 I’m currently learning **React JS**
 
