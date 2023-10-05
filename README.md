@@ -8,9 +8,8 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=this-is-shams" alt="GitHub Streak" /></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-shams&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-shams" /> </p>
-
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadul&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
 
 - 🌱 I’m currently learning **React JS**
 
