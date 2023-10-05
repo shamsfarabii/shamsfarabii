@@ -3,8 +3,6 @@
 <h3 align="center">Currently an undergraduate, pursuing my bachelor's in Computer Science and Engineering. Passionate about problem solving and creative thinking. Love to learn new things and teach others.</h3>
 
 <div align="center">
-<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=this-is-shams)](https://git.io/streak-stats)" alt="this-is-shams" />
-<p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=this-is-shams" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-shams&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
 </div>
