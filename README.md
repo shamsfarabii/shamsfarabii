@@ -5,7 +5,7 @@
 <div align="center">
 <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=this-is-shams)](https://git.io/streak-stats)" alt="this-is-shams" />
 <p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadul&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=this-is-shams" alt="GitHub Streak" /></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-shams&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-shams" /> </p>
