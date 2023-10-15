@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shamsfarabialmuhit71@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://cutt.ly/r6l7D8M)
+- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://shams-farabi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
