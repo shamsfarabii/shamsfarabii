@@ -1,4 +1,4 @@
-<div align="center"><img align="center" width="300px" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="this-is-shams" /></div>
+<div align="center"><img align="center" width="300px" src="[https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif](https://i.ibb.co/wss5H2T/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)" alt="this-is-shams" /></div>
 <h1 align="center">Hi 👋, I'm Shams Farabi Al Muhit</h1>
 <h3 align="center">Currently an undergraduate, pursuing my bachelor's in Computer Science and Engineering. Passionate about problem solving and creative thinking. Love to learn new things and teach others.</h3>
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me **shamsfarabialmuhit71@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://shams-farabi.vercel.app/)
+- 📄 Know about my experiences [shams-farabi-portfolio](https://shams-farabi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
