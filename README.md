@@ -1,4 +1,4 @@
-<div align="center"><img align="center" width="300px" src="[https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif](https://i.ibb.co/wss5H2T/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)" alt="this-is-shams" /></div>
+<div align="center"><img align="center" width="300px" src="https://i.ibb.co/wss5H2T/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="this-is-shams" /></div>
 <h1 align="center">Hi 👋, I'm Shams Farabi Al Muhit</h1>
 <h3 align="center">Currently an undergraduate, pursuing my bachelor's in Computer Science and Engineering. Passionate about problem solving and creative thinking. Love to learn new things and teach others.</h3>
 
