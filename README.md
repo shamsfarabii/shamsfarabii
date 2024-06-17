@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=this-is-shams&label=Profile%20views&color=brightgreen&style=flat" alt="this-is-shams" />
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Fast API and Svelte**
 
 - 📫 How to reach me **shamsfarabialmuhit71@gmail.com**
 
