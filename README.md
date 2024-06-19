@@ -4,7 +4,7 @@
 Passionate about web development, I thrive on building comprehensive full-stack solutions. With a keen focus on React, Node.js, and TypeScript, I enjoy designing robust systems, crafting seamless user experiences, and writing efficient, maintainable code.
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -19,11 +19,13 @@ Passionate about web development, I thrive on building comprehensive full-stack 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shamsfarabii&label=Profile%20views&color=brightgreen&style=flat" alt="naimulcsx" />  <a href="https://github.com/naimulcsx"><img src="https://img.shields.io/github/followers/shamsfarabii?style=social" /></a> <a href="https://twitter.com/@naimulcsx"><img src="https://img.shields.io/twitter/follow/shamsfarabii?style=social" /> </a> </p>
 
-- 🌱 I’m currently learning **Fast API and Svelte**
+<div align="center">
+🌱 I’m currently learning **Fast API and Svelte**
 
-- 📫 How to reach me **shamsfarabialmuhit71@gmail.com**
+📫 How to reach me **shamsfarabialmuhit71@gmail.com**
 
-- 📄 Know about my experiences [shams-farabi-portfolio](https://shams-farabi.vercel.app/)
+📄 Know about my experiences [shams-farabi-portfolio](https://shams-farabi.vercel.app/)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
