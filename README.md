@@ -2,11 +2,11 @@
 <h3 align="center">Passionate about web development, I thrive on building comprehensive full-stack solutions. With a keen focus on React, Node.js, and TypeScript, I enjoy designing robust systems, crafting seamless user experiences, and writing efficient, maintainable code.</h3>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shams-farabii" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shams-farabii&show_icons=true&locale=en&layout=compact" alt="shams-farabii" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsfarabii&show_icons=true&locale=en&layout=compact" alt="shamsfarabii" /></p>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=shams-farabii&label=Profile%20views&color=brightgreen&style=flat" alt="shams-farabii" />
+<img src="https://komarev.com/ghpvc/?username=shamsfarabii&label=Profile%20views&color=brightgreen&style=flat" alt="shamsfarabii" />
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
 
 - 🌱 I’m currently learning **Fast API and Svelte**
