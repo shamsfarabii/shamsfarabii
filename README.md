@@ -7,7 +7,7 @@ Passionate about web development, I thrive on building comprehensive full-stack 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii&theme=monokai" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center" style="margin-bottom: 20px; margin-top: 20px">
+<div align="center" style="margin-bottom: 20px">
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/>
