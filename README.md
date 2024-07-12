@@ -12,7 +12,7 @@ Passionate about web development, I thrive on building comprehensive full-stack 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shamsfarabii&label=Profile%20views&color=brightgreen&style=flat" alt="naimulcsx" />  <a href="https://github.com/naimulcsx"><img src="https://img.shields.io/github/followers/shamsfarabii?style=social" /></a> <a href="https://twitter.com/@naimulcsx"><img src="https://img.shields.io/twitter/follow/shamsfarabii?style=social" /> </a> </p>
 
 <div align="center">
-🌱 I’m currently learning <b>Fast API and Svelte<b>
+🌱 I’m currently learning <b>Flutter<b>
 
 ###
 
