@@ -16,11 +16,11 @@ Passionate about web development, I thrive on building comprehensive full-stack 
 
 ###
 
-📫 Reach me:  **shamsfarabialmuhit71@gmail.com**
+📫 Reach me:  **shams.farabi.dev@gmail.com**
 
 ###
 
-📄 Know about my experiences [shams-farabi-portfolio](https://shams-farabi.vercel.app/)
+📄 Know about my experiences [My Portfolio](https://shams-farabi.vercel.app/)
 </div>
 
 <h3 align="center">Connect with me:</h3>
