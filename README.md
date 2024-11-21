@@ -1,5 +1,5 @@
 # Hi, I'm Farabi
-**Software Engineer at BrownBrick | Full-Stack | TypeScript | React | FastAPI**
+**Software Engineer at BrownBrick | Full-Stack | TypeScript | React | Svelte | FastAPI**
 
 Passionate about web development, I thrive on building comprehensive full-stack solutions. With a keen focus on React, Node.js, and TypeScript, I enjoy designing robust systems, crafting seamless user experiences, and writing efficient, maintainable code.
 
