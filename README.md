@@ -1,8 +1,6 @@
 # Hi, I'm Farabi
 **Software Engineer at BrownBrick | Full-Stack | TypeScript | React | Svelte | FastAPI**
 
-Passionate about web development, I thrive on building comprehensive full-stack solutions. With a keen focus on React, Node.js, and TypeScript, I enjoy designing robust systems, crafting seamless user experiences, and writing efficient, maintainable code.
-
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii&theme=monokai" alt="GitHub Streak" /></a>
 </div>
