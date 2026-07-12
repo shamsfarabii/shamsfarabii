@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shamsfarabii&label=Profile%20views&color=brightgreen&style=flat" alt="shamsfarabii" />  <a href="https://github.com/shamsfarabii"><img src="https://img.shields.io/github/followers/shamsfarabii?style=social" /></a> <a href="https://twitter.com/@shamsfarabi"><img src="https://img.shields.io/twitter/follow/shamsfarabii?style=social" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shamsfarabii&label=Profile%20views&color=brightgreen&style=flat" alt="shamsfarabii" />  <a href="https://github.com/shamsfarabii"><img src="https://img.shields.io/github/followers/shamsfarabii?style=social" /></a> <a href="https://x.com/shamsfarabi99"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?style=social" /> </a> </p>
 
 <div align="center">
 
