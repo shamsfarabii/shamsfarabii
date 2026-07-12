@@ -1,5 +1,5 @@
 # Hi, I'm Farabi
-**Software Engineer at Innovation Within | Full-Stack | TypeScript | React | FastAPI**
+**Software Engineer at Innovation Within | Full-Stack | TypeScript | React | Node.js**
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shamsfarabii&theme=monokai" alt="GitHub Streak" /></a>
@@ -13,11 +13,11 @@
 
 ###
 
-📫 Reach me:  **shams.farabi.dev@gmail.com**
+📫 Reach me:  **mail@shamsfarabi.com**
 
 ###
 
-📄 Know about my experiences [My Portfolio](https://shams-farabi.vercel.app/)
+📄 Know about my experiences [My Portfolio](https://shamsfarabi.com/)
 </div>
 
 <h3 align="center">Connect with me:</h3>
